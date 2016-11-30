@@ -1,0 +1,9 @@
+{
+  "name": "hacka-thon2016-node",
+  "version": "0.0.0",
+  "description": "HackaThon2016Node",
+  "main": "app.js",
+  "author": {
+    "name": "sehwan"
+  }
+}
